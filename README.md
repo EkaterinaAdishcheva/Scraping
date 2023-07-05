@@ -1,2 +1,2 @@
 # Scraping
-Sample code for site scrawling, scraping and parsing 
+Sample code for site crawling, scraping and parsing 
